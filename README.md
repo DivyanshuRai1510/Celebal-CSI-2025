@@ -1,1 +1,54 @@
 # Celebal-CSI-2025
+# 🚀 CSI 2025 Internship - Celebal Technologies
+
+*Intern Name:* Ayush Sharma  
+*Internship Domain:* App Modernization  
+*Organization:* Celebal Technologies  
+*Duration:* [3rd June,2025] – [End Date]  
+
+---
+
+## 🧩 About the Internship
+
+This repository documents my journey as an intern under the CSI 2025 program at *Celebal Technologies. The focus of the internship is on **App Modernization* – transforming legacy applications to modern, scalable, and cloud-native solutions using the latest technologies and best practices.
+
+---
+
+## 📌 Weekly Assignments
+
+| Week | Title | Description | Link |
+|------|-------|-------------|------|
+| 1 | Introduction to App Modernization | Explored key concepts, benefits, and migration strategies. | [Week 1](https://github.com/Ayush-code28/Celebal-CSI-2025/blob/main/Assignment%201) |
+| 2    | Links and Multimedia          | Adding hyperlinks, images, audio, and video content to web pages. | [Week 2](./Week-2) |
+| 3    | Introduction to CSS           | Styling web pages using Cascading Style Sheets.                    | [Week 3](./Week-3) |
+| 4    | Layout                        | Page layout techniques using flexbox, grid, and positioning.       | [Week 4](./Week-4) |
+| 5    | Introduction to JavaScript    | JavaScript basics for interactivity and logic.                     | [Week 5](./Week-5) |
+| 6    | Arrays                        | Working with arrays and manipulating data in JS.                   | [Week 6](./Week-6) |
+| 7    | Functions                     | Writing and using functions in JavaScript.                         | [Week 7](./Week-7) |
+| 8    | Git                           | Version control using Git and GitHub.   
+---
+
+---
+
+## 📎 Tech Stack
+
+- *Frontend:* HTML, CSS, React (if applicable)  
+- *Backend:* Node.js / Java / Express  
+- *Tools:* Git, GitHub, VS Code, GitHub Actions
+
+---
+
+## 📃 License
+
+This project is for educational and internship purposes under the CSI 2025 program.
+
+---
+
+## 📞 Contact
+
+Feel free to connect with me:
+
+- *LinkedIn:* [Ayush Sharma](https://www.linkedin.com/in/divyanshurai1510/)
+- *Email:* divyanshu131212@gmail.com
+
+---
