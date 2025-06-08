@@ -1,4 +1,3 @@
-# Celebal-CSI-2025
 # 🚀 CSI 2025 Internship - Celebal Technologies
 
 *Intern Name:* Ayush Sharma  
@@ -18,7 +17,7 @@ This repository documents my journey as an intern under the CSI 2025 program at 
 
 | Week | Title | Description | Link |
 |------|-------|-------------|------|
-| 1 | Introduction to App Modernization | Explored key concepts, benefits, and migration strategies. | [Week 1](https://github.com/Ayush-code28/Celebal-CSI-2025/blob/main/Assignment%201) |
+| 1 | Introduction to App Modernization | Explored key concepts, benefits, and migration strategies. | [Week 1](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/blob/main/Assignment%201) |
 | 2    | Links and Multimedia          | Adding hyperlinks, images, audio, and video content to web pages. | [Week 2](./Week-2) |
 | 3    | Introduction to CSS           | Styling web pages using Cascading Style Sheets.                    | [Week 3](./Week-3) |
 | 4    | Layout                        | Page layout techniques using flexbox, grid, and positioning.       | [Week 4](./Week-4) |
@@ -48,7 +47,7 @@ This project is for educational and internship purposes under the CSI 2025 progr
 
 Feel free to connect with me:
 
-- *LinkedIn:* [Ayush Sharma](https://www.linkedin.com/in/divyanshurai1510/)
+- *LinkedIn:* [Divyanshu Rai](https://www.linkedin.com/in/divyanshurai1510/)
 - *Email:* divyanshu131212@gmail.com
 
 ---
