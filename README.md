@@ -1,6 +1,6 @@
 # 🚀 CSI 2025 Internship - Celebal Technologies
 
-*Intern Name:* Ayush Sharma  
+*Intern Name:* Divyanshu Rai  
 *Internship Domain:* App Modernization  
 *Organization:* Celebal Technologies  
 *Duration:* [3rd June,2025] – [End Date]  
