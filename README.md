@@ -19,7 +19,7 @@ This repository documents my journey as an intern under the CSI 2025 program at 
 |------|-------|-------------|------|
 | 1 | Introduction to App Modernization | Explored key concepts, benefits, and migration strategies. | [Week 1](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/blob/main/Assignment%201) |
 | 2    | Links and Multimedia          | Adding hyperlinks, images, audio, and video content to web pages. | [Week 2](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/blob/main/Assignment%202) |
-| 3    | Introduction to CSS           | Styling web pages using Cascading Style Sheets.                    | [Week 3](./Week-3) |
+| 3    | Introduction to CSS           | Styling web pages using Cascading Style Sheets.                    | [Week 3](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/blob/main/Assignment%203) |
 | 4    | Layout                        | Page layout techniques using flexbox, grid, and positioning.       | [Week 4](./Week-4) |
 | 5    | Introduction to JavaScript    | JavaScript basics for interactivity and logic.                     | [Week 5](./Week-5) |
 | 6    | Arrays                        | Working with arrays and manipulating data in JS.                   | [Week 6](./Week-6) |
