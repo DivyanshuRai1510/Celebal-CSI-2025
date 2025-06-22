@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Styled Box</title>
+    <style>
+        .styled-box {
+            background-color: #f0f8ff; /* Light blue */
+            border: 3px solid    rgb(70, 130, 180); /* Steel blue border */
+            margin: 40px auto; /* Centered with top/bottom margin */
+            padding: 30px; /* Space inside the box */
+            width: 300px;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            font-family: Arial, sans-serif;
+            transition: background-color 0.3s ease;
+        }
+
+        .styled-box:hover {
+            background-color: #d6e9fe; /* Slightly darker on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="styled-box">
+        <h2>Hello World!</h2>
+        <p>This is a beautifully styled box.</p>
+    </div>
+</body>
+</html>
