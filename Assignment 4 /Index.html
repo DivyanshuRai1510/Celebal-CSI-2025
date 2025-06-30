@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Responsive Page Layout</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">MySite</div>
+    <nav>
+      <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    <main>
+      <h1>Main Content</h1>
+      <p>This is where your main content goes. Add more sections or articles here to simulate a real webpage.</p>
+    </main>
+
+    <aside>
+      <h2>Sidebar</h2>
+      <ul>
+        <li>Related Article 1</li>
+        <li>Related Article 2</li>
+        <li>Popular Link</li>
+        <li>Resource List</li>
+      </ul>
+    </aside>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 MySite. All rights reserved.</p>
+  </footer>
+
+  <script>
+    document.getElementById("menu-toggle").addEventListener("click", function () {
+      document.getElementById("nav-links").classList.toggle("show");
+    });
+  </script>
+</body>
+</html>
