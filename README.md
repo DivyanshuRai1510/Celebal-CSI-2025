@@ -22,7 +22,7 @@ This repository documents my journey as an intern under the CSI 2025 program at 
 | 3    | Introduction to CSS           | Styling web pages using Cascading Style Sheets.                    | [Week 3](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/blob/main/Assignment%203) |
 | 4    | Layout                        | Page layout techniques using flexbox, grid, and positioning.       | [Week 4](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/tree/main/Assignment%204%20) |
 | 5    | Introduction to JavaScript    | JavaScript basics for interactivity and logic.                     | [Week 5](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/tree/main/Assignment%205) |
-| 6    | Arrays                        | Working with arrays and manipulating data in JS.                   | [Week 6](./Week-6) |
+| 6    | Arrays                        | Working with arrays and manipulating data in JS.                   | [Week 6](https://github.com/DivyanshuRai1510/Celebal-CSI-2025/tree/main/Assignment%206) |
 | 7    | Functions                     | Writing and using functions in JavaScript.                         | [Week 7](./Week-7) |
 | 8    | Git                           | Version control using Git and GitHub.   
 ---
